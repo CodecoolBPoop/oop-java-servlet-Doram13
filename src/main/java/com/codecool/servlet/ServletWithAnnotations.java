@@ -6,7 +6,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
-
+/* !!!!!!!!!!!!!!!!!!!!!4444
+https://www.codexpedia.com/java/java-linked-list-implementation/
+*/
 @WebServlet(name = "simpleServlet", urlPatterns = {"/"}, loadOnStartup = 1)
 public class ServletWithAnnotations extends HttpServlet {
 
